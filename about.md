@@ -5,3 +5,5 @@
 > es un ejerciocio de prueba tema2-ramas
 ## resolver desde github
 > esto se tiene que resolver desde githubgit add
+## Que hace abaut
+> realizar pruebas de merge con conflictos desde github
