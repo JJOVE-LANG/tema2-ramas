@@ -4,4 +4,4 @@
 ## Este documento aboaut
 > es un ejerciocio de prueba tema2-ramas
 ## Que hace abaut
-> realizar pruebas de merge con conflictos
+> realizar pruebas de merge con conflictos desde github
